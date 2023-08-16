@@ -1,2 +1,1 @@
-# web_technologies
-Single page portfolio website
+Single page static portfolio website
